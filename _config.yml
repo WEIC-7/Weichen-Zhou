@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Weichen Zhou / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Weichen Zhou "
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "WEIC-7.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
