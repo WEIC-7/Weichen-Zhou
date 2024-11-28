@@ -14,9 +14,9 @@ title                    : "Weichen's Homepage"
 title_separator          : "-"
 name                     : &name "Weichen Zhou"
 description              : &description "周蔚琛"
-url                      : https://WEIC-7.github.io
+url                      : https://zhou-weichen.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "WEIC-7/WEIC-7.github.io"
+repository               : "WEIC-7/zhou-weichen.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
