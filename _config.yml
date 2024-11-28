@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Xiaoqing Guo"
+  name             : "Weichen Zhou"
   avatar           : "IMG_5408.JPG"
-  bio              : "Postdoc Fellow"
-  location         : "United Kingdom"
+  bio              : 
+  location         : "China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=fo3rmtwAAAAJ&hl=en"
-  email            : "xiaoqing.guo@eng.ox.ac.uk"
-  researchgate     : "https://www.researchgate.net/profile/Xiaoqing-Guo-4"
+  email            : "zweic008@gmail.com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Guo-Xiaoqing"
+  github           : "WEIC-7"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : #"https://orcid.org/0000-0002-9476-521X"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "guo_xiaoqing"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
